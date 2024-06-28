@@ -5,18 +5,6 @@
 
 *The most valuable thing is Squads, to understand which teams/chat were more effective.*
 
-- Notcoin (NOT) Database
-
-![Notcoin (NOT) Database](/images/notcoin_database.png "Notcoin (NOT) Database")
-
-- Notcoin (NOT) Squads Database
-
-![Notcoin (NOT) Squads Database](/images/notcoin_database_squads.png "Notcoin (NOT) Squads Database")
-
-- Notcoin (NOT) Users Database
-
-![Notcoin (NOT) Users Database](/images/notcoin_database_users.png "Notcoin (NOT) Users Database")
-
 
 ## MongoDB Export Files
 >  [notcoin-database-export.zip](https://t.me/ivannikov_pro/65) (128.7 MB) *encrypted.
@@ -34,3 +22,16 @@
     ├── NOTCOIN.notcoin_teams.json (43.3 MB)
     └── NOTCOIN.notcoin_users.json (555.1 MB)
 ```
+
+
+- Notcoin (NOT) Database
+
+![Notcoin (NOT) Database](/images/notcoin_database.png "Notcoin (NOT) Database")
+
+- Notcoin (NOT) Squads Database
+
+![Notcoin (NOT) Squads Database](/images/notcoin_database_squads.png "Notcoin (NOT) Squads Database")
+
+- Notcoin (NOT) Users Database
+
+![Notcoin (NOT) Users Database](/images/notcoin_database_users.png "Notcoin (NOT) Users Database")
