@@ -1,8 +1,8 @@
 # Notcoin (NOT) Database
 **Parsed Notcoin data right after the end of mining.**
 
-  - 1️⃣ **All squads/teams** (the statistics indicate 54,050, but I did not find 4 squads). **54,046 records**. Additionally contains Descriptions (group.descriptions field) of channels/groups and the number of subscribers (group.members field).
-  - 2️⃣ **Users** who were in the TOP100 of each squads at the time of parsing. **780,707 records**. Additionally contains Bio (user.descriptions field) of users.
+  - 1️⃣ **ALL Squads (teams)** (the statistics indicate 54,050, but I did not find 4 squads). **54,046 records**. Additionally contains Descriptions (group.descriptions field) of channels/groups and the number of subscribers (group.members field).
+  - 2️⃣ **Users** who were in the **TOP100** of each squads at the time of parsing. **780,707 records**. Additionally contains Bio (user.descriptions field) of users.
   - 3️⃣ **Statistics** were also collected at the time of parsing. **457 records**.
 
 *The most valuable thing is Squads, to understand which teams/chat were more effective.*
