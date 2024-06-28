@@ -5,7 +5,7 @@
   - 2️⃣ **Users** who were in the **TOP100** of each squads at the time of parsing. **780,707 records**. Additionally contains Bio (user.descriptions field) of users.
   - 3️⃣ **Statistics** were also collected at the time of parsing. **457 records**.
 
-*The most valuable thing is Squads, to understand which teams/chat were more effective.*
+**The most valuable thing is Squads, to understand which team/chat were more effective.**
 
 
 ## MongoDB Export Files
