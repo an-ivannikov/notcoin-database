@@ -40,4 +40,7 @@
 
 - Notcoin (NOT) Database, Video
 
-![Notcoin (NOT) Database, Video](/images/notcoin_database.mp4 "Notcoin (NOT) Database, Video")
+<video width="320" height="240" controls>
+  <source src="/images/notcoin_database.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
