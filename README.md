@@ -40,6 +40,4 @@
 
 - Notcoin (NOT) Database, Video
 
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="/images/notcoin_database.mp4" type="video/mp4" />
-</video>
+<video autoplay loop style="width:100%" controls src="/images/notcoin_database.mp4" type="video/mp4" />
