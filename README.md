@@ -40,7 +40,6 @@
 
 - Notcoin (NOT) Database, Video
 
-<video width="320" height="240" controls>
-  <source src="/images/notcoin_database.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
+  <source src="/images/notcoin_database.mp4" type="video/mp4" />
 </video>
