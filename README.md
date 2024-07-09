@@ -26,16 +26,16 @@
 ```
 
 
-- Notcoin (NOT) Database
+- [Notcoin (NOT) Database, Video](https://t.me/ivannikov_pro/176).
+
+- Notcoin (NOT) Database:
 
 ![Notcoin (NOT) Database](/images/notcoin_database.png "Notcoin (NOT) Database")
 
-- Notcoin (NOT) Squads Database
+- Notcoin (NOT) Squads Database:
 
 ![Notcoin (NOT) Squads Database](/images/notcoin_database_squads.png "Notcoin (NOT) Squads Database")
 
-- Notcoin (NOT) Users Database
+- Notcoin (NOT) Users Database:
 
 ![Notcoin (NOT) Users Database](/images/notcoin_database_users.png "Notcoin (NOT) Users Database")
-
-- [Notcoin (NOT) Database, Video](https://t.me/ivannikov_pro/176).
