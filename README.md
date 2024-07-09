@@ -38,6 +38,4 @@
 
 ![Notcoin (NOT) Users Database](/images/notcoin_database_users.png "Notcoin (NOT) Users Database")
 
-- Notcoin (NOT) Database, Video
-
-<video autoplay loop style="width:100%" controls src="https://github.com/an-ivannikov/notcoin-database/raw/master/images/notcoin_database.mp4" type="video/mp4" />
+- [Notcoin (NOT) Database, Video](/images/notcoin_database.mp4).
